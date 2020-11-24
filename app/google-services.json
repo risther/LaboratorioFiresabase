@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "726112125912",
+    "firebase_url": "https://laboratoriofiresabase.firebaseio.com",
+    "project_id": "laboratoriofiresabase",
+    "storage_bucket": "laboratoriofiresabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726112125912:android:96a9845b9ada22cb36e8ad",
+        "android_client_info": {
+          "package_name": "com.example.laboratoriofiresabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726112125912-99gvh6ljartpdqsck49mh8cvftcrbboa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0-M2iKPzP1KHvMLRR2-IlKv6XJe1RyTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726112125912-99gvh6ljartpdqsck49mh8cvftcrbboa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
